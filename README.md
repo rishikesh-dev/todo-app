@@ -1,21 +1,22 @@
-To-Do App
-Overview
-Welcome to the To-Do App! This app is designed to help you manage your tasks efficiently and boost your productivity. With a clean and intuitive interface, you can easily add, edit, and delete tasks, check off completed items, and stay organized. Whether you’re managing daily chores, work projects, or personal goals, this app is here to simplify your life.
+# To-Do App
 
-Features
-User-Friendly Interface: Easy navigation and minimal design.
-Task Management: Add, edit, and delete tasks effortlessly.
-Checkbox Functionality: Mark tasks as complete with a simple checkbox.
-Persistent Storage: Save your tasks using local storage (Hive).
-Responsive Design: Works seamlessly on both mobile and desktop.
-Getting Started
-To get started with the To-Do App, follow these steps:
+## Overview
+The To-Do App helps you manage your tasks easily. With a simple design, you can add, edit, and delete tasks, and check off items when completed. Stay organized and boost your productivity!
 
-Clone this repository:
+## Features
+- **Easy to Use**: Simple and clean interface.
+- **Task Management**: Add, edit, and delete tasks.
+- **Checkboxes**: Mark tasks as complete.
+- **Local Storage**: Your tasks are saved securely.
+- **Responsive Design**: Works on both mobile and desktop.
 
-bash
-Copy code
-git clone https://github.com/rishikesh-dev/todo_app.git
+## Getting Started
+Follow these steps to run the To-Do App:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/rishikesh-richi/todo_app.git
+
 Navigate to the project directory:
 
 bash
