@@ -19,7 +19,7 @@ Follow these steps to run the To-Do App:
 
 Navigate to the project directory:
 
-'''bash
+```bash
 Copy code
 cd todo_app
 Install dependencies:
@@ -30,12 +30,12 @@ Install dependencies:
   build_runner: ^2.4.12
   google_fonts: ^6.2.1
   
-'''bash
+```bash
 Copy code
 flutter pub get
 Run the app:
 
-'''bash
+```bash
 Copy code
 flutter run
 Download
