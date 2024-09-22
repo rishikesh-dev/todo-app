@@ -19,26 +19,24 @@ Follow these steps to run the To-Do App:
 
 Navigate to the project directory:
 
-```bash
-Copy code
+## Copy code
 cd todo_app
-Install dependencies:
+## Install dependencies:
+  ```bash
   flutter_slidable: ^3.1.1
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   hive_generator: ^2.0.1
   build_runner: ^2.4.12
   google_fonts: ^6.2.1
-  
-```bash
-Copy code
+```
+Copy code:
 flutter pub get
 Run the app:
 
-```bash
-Copy code
+## Copy code
 flutter run
-Download
+## Download
 You can download the latest release of the To-Do App from the following link:
 
 Download APK
