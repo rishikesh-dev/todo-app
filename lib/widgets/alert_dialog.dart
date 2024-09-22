@@ -6,11 +6,11 @@ class AlertDialogWidget extends StatelessWidget {
     super.key,
     required this.onCancel,
     required this.onSave,
-    this.controller,
+    required this.controller,
   });
   final VoidCallback onSave;
   final VoidCallback onCancel;
-  final controller;
+  final TextEditingController controller;
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
