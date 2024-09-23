@@ -36,7 +36,3 @@ Run the app:
 
 ## Copy code
 flutter run
-## Download
-You can download the latest release of the To-Do App from the following link:
-
-Download APK
