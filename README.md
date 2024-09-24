@@ -36,3 +36,5 @@ Run the app:
 
 ## Copy code
 flutter run
+## Downloads App
+[Download](https://github.com/rishikesh-dev/todo-app/releases/tag/v1.0.0)
